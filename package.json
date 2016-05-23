@@ -1,0 +1,19 @@
+{
+  "name": "cdtests",
+  "version": "1.0.0",
+  "description": "just a test of differents CI services",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loverajoel/ci-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loverajoel/ci-tests/issues"
+  },
+  "homepage": "https://github.com/loverajoel/ci-tests#readme"
+}
