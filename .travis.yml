@@ -7,3 +7,9 @@ node_js:
 before_script:
   - npm install
 script: test
+notifications:
+  email:
+    recipients:
+      - joelalovera@gmail.com
+    on_success: [never]
+    on_failure: [always]
