@@ -1,1 +1,1 @@
-console.log('// all test pased //')
+console.log('// all test not pased //')
